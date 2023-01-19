@@ -1,0 +1,2 @@
+# nikkei22go
+日経225構成銘柄のYahooFinance5年分OHLCv/Dayを取得する
